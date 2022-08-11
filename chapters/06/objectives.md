@@ -1,0 +1,5 @@
+## Learning Objectives
+- [ ] Have a good understanding of linux commands and options
+- [ ] Know common linux system administration commands
+- [ ] Know common network administration commands
+- [ ] Know common user administration commands
