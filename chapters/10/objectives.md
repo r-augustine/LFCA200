@@ -1,7 +1,7 @@
 ## Learning Objectives
 
-- [ ] Understand what DevOps is.
-- [ ] Discuss basic practices of DevOps
-- [ ] Explain how cloud and containers help with implementing DevOps practices.
-- [ ] Understand general DevOps environments.
-- [ ] Use Git fundamental commands.
+- [x] Understand what DevOps is.
+- [x] Discuss basic practices of DevOps
+- [x] Explain how cloud and containers help with implementing DevOps practices.
+- [x] Understand general DevOps environments.
+- [x] Use Git fundamental commands.
